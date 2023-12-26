@@ -1,10 +1,10 @@
 {
-  "name": "hermit-md",
+  "name": "Isis-md",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
+  "repository": "https://github.com/phantom6w6/hermit-md",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -13,14 +13,14 @@
       "value": ""
     },
     "SUDO": {
-      "description": "owner number of the bot",
+      "description": "263779694908",
       "required": true,
       "value": "null"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "Isis;KIDDJUICE;263779694908;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
+      "value": "Isis;KIDDJUICE"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "Isis;KIDDJUICE;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "READ_MSG": {
       "description": "Read all messages",
