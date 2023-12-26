@@ -25,7 +25,7 @@ Isis-md - Simple whatsapp Multi Device whatsapp bot.
     <br>
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-3. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
+3. Get [DATABASE_URL](https://github.com/phantom6w6/Isis-md/wiki/DATABASE_URL) and copy it
 
 4. Get [Koyeb api key](https://app.koyeb.com/account/api)
 
@@ -69,11 +69,11 @@ Isis-md - Simple whatsapp Multi Device whatsapp bot.
   ```
 - Stop
   ```
-  $ pm2 delete hermit-md
+  $ pm2 delete isis-md
   ```
 <br>
 
-For help visit [Github wiki](https://github.com/phantom6w6/hermit-md/wiki)
+For help visit [Github wiki](https://github.com/phantom6w6/isis-md/wiki)
 
 ***
 <a href="https://chat.whatsapp.com/LLBOi9zqHulAhyKyfHFztr"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
