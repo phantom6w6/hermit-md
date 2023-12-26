@@ -1,5 +1,5 @@
-#### HERMIT MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+#### Isis MD WHATSAPP BOT
+Isis-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
@@ -49,8 +49,8 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 2. Installation
    ```
    $ npm i -global pm2
-   $ git clone https://github.com/A-d-i-t-h-y-a-n/hermit-md.git
-   $ cd hermit-md
+   $ git clone https://github.com/phantom6w6/isis-md.git
+   $ cd isis-md
    $ npm install
    ```
 3. Configuration
@@ -73,10 +73,10 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
   ```
 <br>
 
-For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki)
+For help visit [Github wiki](https://github.com/phantom6w6/hermit-md/wiki)
 
 ***
-<a href="https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a href="https://chat.whatsapp.com/LLBOi9zqHulAhyKyfHFztr"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 
 ## Support Me
 
